@@ -10,7 +10,7 @@
   OLED SCREEN SCL -- A5
 
 **************************************************************************************
-  GEREKLİ KÜTÜPHANELER:
+  REQIRED LIBRARIES:
   https://www.arduino.cc/reference/en/libraries/adafruit-mlx90614-library/
   https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/
 */
