@@ -1,13 +1,13 @@
 /*                         EKİM 2021 TALPAY
                          TEMASSIZ ATEŞ ÖLÇER
 **************************************************************************************
-  BAĞLANTI PİNLERİ:
-  BUTON 2 NOLU DİJİTAL PİNE
-  LAZER 5 NOLU DİJİTAL PİNE
-  GY-906 SDA PİNİ A4 NOLU ANALOG PİNE
-  GY-906 SCL PİNİ A5 NOLU ANALOG PİNE
-  OLED EKRAN SDA PİNİ A4 NOLU ANALOG PİNE
-  OLED EKRAN SCL PİNİ A5 NOLU ANALOG PİNE
+  LINK PINS:
+  BUTTON -- D2
+  LASER -- D5
+  GY-906 SDA -- A4
+  GY-906 SCL -- A5
+  OLED SCREEN SDA -- A4
+  OLED SCREEN SCL -- A5
 
 **************************************************************************************
   GEREKLİ KÜTÜPHANELER:
