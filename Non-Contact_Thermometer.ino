@@ -1,5 +1,5 @@
 /*                         EKİM 2021 TALPAY
-                         TEMASSIZ ATEŞ ÖLÇER
+                        Non-Contact Thermometer
 **************************************************************************************
   LINK PINS:
   BUTTON -- D2
