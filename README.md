@@ -9,6 +9,6 @@ LINK PINS:
    OLED SCREEN SDA -- A4
    OLED SCREEN SCL -- A5
 
-  REQIRED LIBRARIES:
+  REQIRED LIBRARIES: 
   https://www.arduino.cc/reference/en/libraries/adafruit-mlx90614-library/
   https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/
