@@ -13,5 +13,5 @@ LINK PINS:
   https://www.arduino.cc/reference/en/libraries/adafruit-mlx90614-library/                    
   https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/   
   
- ![image](https://user-images.githubusercontent.com/75435070/165783296-2b7b6856-cf69-4c68-8ed2-c8c1b909687e.png)         
+![image](https://user-images.githubusercontent.com/75435070/165784209-92678fd5-d63c-4c83-995d-e5db60d53c75.png)       
                                    CIRCUID DIAGRAM
