@@ -1,4 +1,4 @@
-/*                         EKİM 2021 TALPAY
+/*                        October 2021 TALPAY
                         Non-Contact Thermometer
 **************************************************************************************
   LINK PINS:
