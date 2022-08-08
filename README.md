@@ -9,8 +9,8 @@ This project has been prepared to meet the need for non-contact temperature meas
 * OLED SCREEN SDA -- A4                                        
 * OLED SCREEN SCL -- A5
 
-## REQIRED LIBRARIES
-` https://www.arduino.cc/reference/en/libraries/adafruit-mlx90614-library/ `                   
+## Required Libraries
+`https://www.arduino.cc/reference/en/libraries/adafruit-mlx90614-library/ `                   
 `https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/`   
 
 ## Circuid Diagram
